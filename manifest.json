@@ -1,0 +1,9 @@
+{
+  "display_name": "Chat Fit To Sprite",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "Texas",
+  "version": "1.0.0"
+}
